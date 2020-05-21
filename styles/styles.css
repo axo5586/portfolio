@@ -1,0 +1,160 @@
+
+body
+{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: #1e1f20;
+    overflow-x: hidden;
+}
+
+.center
+{
+    text-align: center;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.italic
+{
+    font-style: italic;
+    margin-bottom: 2rem;
+}
+
+.andy
+{
+    font-size: 5rem;
+    text-decoration: italic;
+}
+
+.cover-img
+{
+    padding-top: 2rem;
+}
+
+.webapp
+{
+    background-color: #1e1f20;
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+}
+
+#navbar
+{
+    font-size: 2rem;
+    overflow: hidden;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+#navbar a
+{
+    color: white;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.about-text
+{
+    padding-top: 2rem;
+    margin-right: 12rem;
+    margin-left: 12rem;
+    padding-left: 6rem;
+    padding-right: 6rem;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.art-images
+{
+    text-align: center;
+}
+
+.font-blue
+{
+    color: rgb(146, 211, 236);
+    font-weight: bolder;
+}
+
+.index-text
+{
+    padding: 2rem;
+    font-size: 1.1rem;
+}
+
+.contact-form
+{
+    margin-top: 2rem;
+    padding: 1rem;
+}
+
+/** projects page css **/
+
+.project-head
+{
+    padding-top: 1rem;
+    text-decoration: underline;
+}
+
+.project-desc
+{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15rem;
+    padding-right: 15rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.project-link
+{
+    color: rgb(78, 188, 231);
+}
+
+.project-link:hover
+{
+    font-weight: 900;
+    color: rgb(146, 211, 236);
+}
+
+.project-text
+{
+    padding: 1rem;
+}
+
+.project-img
+{
+    padding: 1rem;
+    margin: 1rem;
+    border: 1px solid white;
+}
+
+.screenshot-text
+{
+    border: 1px white solid;
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.project-vid
+{
+    margin-bottom: 2rem;
+}
+
+.link
+{
+    color: rgb(78, 188, 231);
+}
+
+.link:hover
+{
+    color: rgb(146, 211, 236);
+    font-weight: bolder;
+}
+
+.img-desc
+{
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
