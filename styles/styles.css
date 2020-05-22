@@ -8,6 +8,11 @@ body
     overflow-x: hidden;
 }
 
+.andy-pic
+{
+    max-width: 350px;
+    border: 1px solid black;
+}
 .center
 {
     text-align: center;
@@ -62,7 +67,7 @@ body
 
 .about-text
 {
-    padding-top: 2rem;
+    padding-top: 1rem;
     margin-right: 12rem;
     margin-left: 12rem;
     padding-left: 6rem;
