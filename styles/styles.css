@@ -67,11 +67,7 @@ body
 
 .about-text
 {
-    padding-top: 1rem;
-    margin-right: 12rem;
-    margin-left: 12rem;
-    padding-left: 6rem;
-    padding-right: 6rem;
+    padding: 2rem;
     text-align: center;
     font-size: 1.2rem;
 }
@@ -111,8 +107,7 @@ body
 {
     margin-left: auto;
     margin-right: auto;
-    padding-left: 15rem;
-    padding-right: 15rem;
+
     margin-top: 2rem;
     margin-bottom: 2rem;
 }
@@ -169,4 +164,22 @@ body
     margin-right: auto;
     padding-left: 2rem;
     padding-right: 2rem;
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+    .andy-heading {
+        width: 100px;
+        height: 100px;
+    }
+
+    .andy-text {
+        width: 245px;
+        height: 66px;
+    }
+
+    .project-vid {
+        width: 400px;
+        height: 225px;
+    }
 }
